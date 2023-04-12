@@ -40,7 +40,8 @@ const IndexPage = () => {
             <img src={SwiftLogo} width='50' />
           </div>
 
-          <a href=''>Test assignment</a>
+          <a href='https://valiaku.github.io/test-assignment/'>Test - Demo</a>
+          <a href='https://github.com/ValiaKu/test-assignment'>Test - Code</a>
           <svg
             width='100%'
             height='172'
