@@ -15,7 +15,7 @@ const IndexPage = () => {
       <div className='Hero'>
         <div className='HeroGroup'>
           <h1>Valentyna Kuzmych</h1>
-          <p>Software Developer, Designer and Entrepreneur</p>
+          <p>Front End Developer, Designer and Entrepreneur</p>
           {/* <p>
             Programmer: Front End Developer who focuses on writing clean,
             reusable, elegant and efficient code. Currently the main area of my
@@ -39,7 +39,8 @@ const IndexPage = () => {
             <img src={ReactLogo} width='50' />
             <img src={SwiftLogo} width='50' />
           </div>
-          <a href=''>Watch the video</a>
+
+          <a href=''>Test assignment</a>
           <svg
             width='100%'
             height='172'
