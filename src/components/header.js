@@ -9,14 +9,15 @@ const Header = ({ siteTitle }) => (
       <Link to='/'>
         <img src={logo} width='30' />
       </Link>
+      <Link to='https://drive.google.com/file/d/1T-Ag7zJK4vToBWIDOs4iQ_Qk2MqEIhJ5/view?usp=sharing'>
+        PDF CV
+      </Link>
+
+      <Link to='https://valiaku.github.io/cv/index-2.html'>Detailed CV</Link>
+
       <Link to='https://www.linkedin.com/in/valentinakuzmych/'>
         LinkedIn Profile
       </Link>
-      <Link to='https://djinni.co/q/5b97768d1f/'>DJinni Profile</Link>
-      <Link to='https://valiaku.github.io/cv/index.html'>Online CV</Link>
-      {/* <Link to='/buy'>
-        <button>Buy</button>
-      </Link> */}
     </div>
   </div>
 );
