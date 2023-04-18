@@ -154,7 +154,7 @@ const IndexPage = () => {
 
           <div className='WorkWrapper'>
             <div className='Work'>
-              <span className='date'>2015 - 2021</span>
+              <span className='date'>2022 - now</span>
               <span class='position'>
                 Senior Front End developer (Chief Specialist) in{" "}
                 <a href='https://nazk.gov.ua/' target='_blank'>
