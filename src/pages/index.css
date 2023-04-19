@@ -521,8 +521,9 @@ h2 {
     padding-top: 0;
   }
   .Footer ul {
-    padding-left: 0;
     margin-left: 0;
+    padding-left: 0;
+    padding-top: 50px;
   }
   .Footer ul li {
     padding-left: 0;
@@ -555,5 +556,8 @@ h2 {
   .Container.Footer li:last-child > span {
     font-family: "Courier New", Courier, monospace;
     font-size: 14px;
+  }
+  .Skillset {
+    margin-bottom: 40px;
   }
 }
