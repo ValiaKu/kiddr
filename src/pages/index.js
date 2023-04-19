@@ -339,7 +339,9 @@ const IndexPage = () => {
               </a>{" "}
               Design and Visual Communications
             </li>
-            <li>Ukraine Information Institute: Web Technology</li>
+            <li>
+              <span>Ukraine Information Institute </span> Web Technology
+            </li>
           </ul>
           <img src={Laptop} width='500' alt='Laptop' className='macPic' />
         </div>

@@ -511,26 +511,49 @@ h2 {
     grid-template-columns: auto;
   }
   .Footer {
-    padding-top: 50px;
-    margin-top: -150px;
+    padding-top: 0;
+    margin-top: -50px;
   }
   .Footer .Group {
     padding-left: 10px;
     padding-right: 10px;
+    position: relative;
+    padding-top: 0;
   }
   .Footer ul {
     padding-left: 0;
     margin-left: 0;
   }
   .Footer ul li {
-    line-height: 2;
+    padding-left: 0;
+    margin-left: 3px;
+    margin-right: 3px;
   }
   .macPic {
-    width: 100%;
-    bottom: 200px;
+    width: 90%;
+    bottom: 300px;
     left: 10px;
   }
   .WorkExperience {
     height: 1100px;
+  }
+  .Skillset-wrapper .Skillset .Skillset-card {
+    width: 80%;
+  }
+  .Footer h2 {
+    line-height: 1;
+  }
+  #___gatsby {
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .Container.Footer a {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 10px;
+  }
+  .Container.Footer li:last-child > span {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
   }
 }
