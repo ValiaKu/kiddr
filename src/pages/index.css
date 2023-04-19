@@ -529,6 +529,7 @@ h2 {
     padding-left: 0;
     margin-left: 3px;
     margin-right: 3px;
+    background-image: none;
   }
   .macPic {
     width: 90%;
