@@ -268,7 +268,10 @@ const IndexPage = () => {
                     HTML5/Canvas, BEM metodology, StoryBook, CSS and SVG
                     animations
                   </li>
-                  <li>WordPress, Drupal, Joomla CMS, Sharepoint (SPFx)</li>
+                  <li>
+                    WordPress, Drupal, Joomla CMS, Sharepoint (SPFx), Shopify
+                    (Liquid)
+                  </li>
                   <li>git, NPM, Bower, Gulp, Webpack</li>
                 </ul>
               </div>
