@@ -17,6 +17,7 @@ import JsLogo from "../images/logo-js.png";
 import BootstrapLogo from "../images/logo-bootstrap.png";
 import Valia from "../images/me.jpeg";
 import Laptop from "../images/Laptop.png";
+import Section from "../components/Section/Section";
 
 const IndexPage = () => {
   return (
@@ -346,6 +347,12 @@ const IndexPage = () => {
           <img src={Laptop} width='500' alt='Laptop' className='macPic' />
         </div>
       </div>
+      <Section
+        image='../images/wallpapper2.jpg'
+        logo='../images/logo-js.png'
+        title='Title React'
+        text='fnsdfnadksjfs jdf'
+      />
     </div>
   );
 };
