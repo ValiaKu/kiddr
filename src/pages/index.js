@@ -265,9 +265,9 @@ const IndexPage = () => {
                     CSS(Grid, flexbox model, responsive), Bootstrap Framework
                     (3,4,5), Material UI, CSS Preprocessors (SASS/SCSS, LESS),
                     HTML5/Canvas, BEM metodology, StoryBook, CSS and SVG
-                    animations
+                    animations, Liquid 
                   </li>
-                  <li>WordPress, Drupal, Joomla CMS, Sharepoint (SPFx)</li>
+                  <li>WordPress, Drupal, Joomla CMS, Sharepoint (SPFx), Shopify (Online Store 2.0)</li>
                   <li>git, NPM, Bower, Gulp, Webpack</li>
                 </ul>
               </div>
