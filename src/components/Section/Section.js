@@ -6,7 +6,7 @@ const SectionGroup = styled.div`
   height: 720px;
   background-size: cover;
   display: grid;
-  grid-templates-row: 300px auto;
+  grid-template-rows: 300px auto;
   grid-gap: 20px;
 `;
 
@@ -21,7 +21,7 @@ const SectionTitleGroup = styled.div`
   grid-template-columns: 300px auto;
   margin: 0 40px;
   grid-gap: 20px;
-  grid-templates-row: auto 100%;
+  grid-template-rows: auto 100%;
   @media (max-width: 720px) {
     grid-template-columns: 1fr;
   }
