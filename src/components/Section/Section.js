@@ -8,7 +8,7 @@ const SectionGroup = styled.div`
   display: grid;
   grid-templates-row: 300px auto;
   grid-gap: 20px;
-`;
+`;```
 
 const SectionLogo = styled.img`
   align-self: end;

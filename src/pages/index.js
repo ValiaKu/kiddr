@@ -258,14 +258,14 @@ const IndexPage = () => {
                 <ul>
                   <li>
                     TypeScript/JavaScript, React JS, React Native,
-                    Angular2+/AngularJS, Gatsby.js, jQuery, three.js, JS
-                    animations
+                    Angular2+/AngularJS, Gatsby.js, jQuery, three.js, StoryBook,
+                    JS animations
                   </li>
                   <li>
                     CSS(Grid, flexbox model, responsive), Bootstrap Framework
-                    (3,4,5), Material UI, CSS Preprocessors (SASS/SCSS, LESS),
-                    HTML5/Canvas, BEM metodology, StoryBook, CSS and SVG
-                    animations
+                    (3,4,5), Material UI, Tailwind, CSS Preprocessors
+                    (SASS/SCSS, LESS), HTML5/Canvas, BEM metodology, , CSS and
+                    SVG animations
                   </li>
                   <li>
                     WordPress, Drupal, Joomla CMS, Sharepoint (SPFx), Shopify
