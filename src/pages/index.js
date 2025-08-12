@@ -259,6 +259,7 @@ const IndexPage = () => {
                   <li>Adaptive/Responsive design</li>
                   <li>SEO optimization and analytics</li>
                   <li>Semantics and standards</li>
+                  <li>Web Accessibility (including WCAG)</li>
                 </ul>
               </div>
             </div>
@@ -268,21 +269,21 @@ const IndexPage = () => {
                 <h3 className='Skillset-category'>Front End</h3>
                 <ul>
                   <li>
-                    TypeScript/JavaScript, React JS, React Native,
+                    TypeScript, JavaScript, React, Next.js,  Svelte, SvelteKit, Node.js, Express, PixiJS, React Native,
                     Angular2+/AngularJS, Gatsby.js, jQuery, three.js, StoryBook,
                     JS animations
                   </li>
                   <li>
-                    CSS(Grid, flexbox model, responsive), Bootstrap Framework
-                    (3,4,5), Material UI, Tailwind, CSS Preprocessors
-                    (SASS/SCSS, LESS), HTML5/Canvas, BEM metodology, , CSS and
+                    CSS (Grid, flexbox model, responsive), Material UI, Tailwind, Shadcn, Radix, Material UI, CSS Preprocessors
+                    (SASS/SCSS, LESS), HTML5/Canvas, BEM metodology, Bootstrap Framework
+                    (3,4,5), CSS and
                     SVG animations
                   </li>
                   <li>
                     WordPress, Drupal, Joomla CMS, Sharepoint (SPFx), Shopify
                     (Liquid)
                   </li>
-                  <li>git, NPM, Bower, Gulp, Webpack</li>
+                  <li>git, NPM, Bower, Gulp, Webpack, Vite, pNPM</li>
                 </ul>
               </div>
             </div>
