@@ -33,7 +33,7 @@ class Header extends React.Component {
           <Link to='/'>
             <img src={logo} width='30' />
           </Link>
-          <Link to='https://drive.google.com/file/d/1T-Ag7zJK4vToBWIDOs4iQ_Qk2MqEIhJ5/view?usp=sharing'>
+          <Link to='https://drive.google.com/file/d/1rRPO3uhxlCtbLS5LK1LiZHwua_qaxpyx/view'>
             PDF CV
           </Link>
 

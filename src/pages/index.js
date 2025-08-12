@@ -98,9 +98,9 @@ const IndexPage = () => {
             alt='Valentyna Kuzmych'
           />
           <p>
-            <strong>Programmer:</strong> Front End Developer who focuses on
+            <strong>Programmer:</strong> Senior Front End Developer who focuses on
             writing clean, reusable, elegant and efficient code. Currently the
-            main area of my interest is React JS.
+            main area of my interest is React and Svelte ecosystems.
           </p>
           <p>
             <strong>Designer:</strong> UI/UX designer with a passion for
@@ -154,7 +154,18 @@ const IndexPage = () => {
 
           <div className='WorkWrapper'>
             <div className='Work'>
-              <span className='date'>2022 - now</span>
+              <span className='date'>jan 2024 - now</span>
+              <span class='position'>
+                Senior Front End developer in{" "}
+                <a href='https://qubit-labs.com/' target='_blank'>
+                  Cubit labs
+                </a>{" "}
+                Work on US defi startup
+              </span>
+            </div>
+
+            <div className='Work'>
+              <span className='date'>2022 - dec 2023</span>
               <span class='position'>
                 Senior Front End developer (Chief Specialist) in{" "}
                 <a href='https://nazk.gov.ua/' target='_blank'>

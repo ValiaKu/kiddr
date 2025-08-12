@@ -426,6 +426,7 @@ h2 {
   margin-bottom: 30px;
 }
 .macPic {
+  max-width: 500px;
   width: 60%;
   position: absolute;
   z-index: 0;
@@ -489,11 +490,15 @@ h2 {
   display: block;
 }
 
-@media (max-width: 640px) {
-  .HeroGroup {
-    padding: 100px 20px;
+@media (max-width: 991px) {
+  .Skillset-wrapper {
+    grid-template-columns: auto;
+    row-gap: 50px;
   }
+}
 
+
+@media (max-width: 640px) {
   .Hero h1,
   h2 {
     font-size: 50px;
@@ -507,9 +512,6 @@ h2 {
   .Hero .Logos {
     grid-template-columns: repeat(3, 1fr);
   }
-  .Skillset-wrapper {
-    grid-template-columns: auto;
-  }
   .Footer {
     padding-top: 0;
     margin-top: -50px;
@@ -518,7 +520,7 @@ h2 {
     padding-left: 10px;
     padding-right: 10px;
     position: relative;
-    padding-top: 0;
+    padding-top: 100px;
   }
   .Footer ul {
     margin-left: 0;
